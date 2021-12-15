@@ -10,8 +10,9 @@ How it works
 
 ---
 Features
-- Low power consumption
+- Low consumption
 - High performance
+- High efficiency
 - Accurate understanding
 - Parallel learning
 - Long-short term momery
