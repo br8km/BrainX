@@ -33,5 +33,5 @@ Permissions
 ---
 Theory
 - Neurons can build connections with other neurons around
-- Neurons can deliver transmiters
+- Neurons can deliver transmitter
 - Neurons can fire pulse voltage
