@@ -35,3 +35,15 @@ Theory
 - Neurons can build connections with other neurons around
 - Neurons can deliver transmitter
 - Neurons can fire pulse voltage
+
+---
+Parameters
+- Neuron Layers, Numbers per layer
+- Neuron Axon, Dendritic Numbers per neuron
+- Types of neuron transmitter
+
+---
+Study Factors
+- Function blocks
+- Abstract ability
+- automatic transmitter cleaning
