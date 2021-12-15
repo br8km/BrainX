@@ -29,3 +29,9 @@ Motive
 Permissions
 - NO actual actions to the real world
 - NO `BAD` suggest response to any input
+
+---
+Theory
+- Neurons can build connections with other neurons around
+- Neurons can deliver transmiters
+- Neurons can fire pulse voltage
