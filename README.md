@@ -18,3 +18,14 @@ Features
 - Long-short term momery
 - Logical analysis
 - Autonomous drive
+
+---
+Motive
+- More accurate understanding of incoming information
+- Less memory storage
+- Higher speed of response time
+
+---
+Permissions
+- NO actual actions to the real world
+- NO `BAD` suggest response to any input
