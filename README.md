@@ -47,3 +47,12 @@ Study Factors
 - Function blocks
 - Abstract ability
 - automatic transmitter cleaning
+
+---
+Key Components
+- Reader
+- Writer
+- Service
+  - Waiter
+  - Researcher
+
