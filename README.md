@@ -50,9 +50,10 @@ Study Factors
 
 ---
 Key Components
-- Reader
-- Writer
+- Core
+- Plugin
 - Service
-  - Waiter
+  - Reader
+  - Writer
+  - Waitor
   - Researcher
-
