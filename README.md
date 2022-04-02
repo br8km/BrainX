@@ -1,4 +1,4 @@
-# BrainX -- `INTP`
+# INTP -- `BrainX`
 General Artificial Intelligence which Mimic Human Brains
 
 ---
