@@ -2,6 +2,13 @@
 General Artificial Intelligence which Mimic Human Brains
 
 ---
+Capability
+1. Read Structured Text/Image/Video Content;
+2. Use Search Engine To Found Interested Topic;
+3. Absorb Knowledge From Reading;
+4. Understand Request Task By Corresponding Response;
+
+---
 How it works
 1. Given a stimulate with text, image, audio clips, etc.
 2. A random block of neurons will activate to mimic that stimulate
